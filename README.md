@@ -12,7 +12,7 @@
 **./learn_linux**
 **وبس**
 # حساباتي
-تويتر
-https://twitter.com/F14Commander
-يوتيوب
+### **يوتيوب** 
 https://www.youtube.com/channel/UCcOXGSw12Y-d4359PWLrxgQ
+### **تويتر** 
+https://twitter.com/F14Commander 
