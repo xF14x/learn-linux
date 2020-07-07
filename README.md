@@ -6,11 +6,11 @@
 # كم أخذت منك وقت؟
 حوالي نص ساعة (30)دقيقة
 # كيف أستخدمها ؟؟
-1
-chmod +x learn_linux
- 2
- ./learn_linux
- وبس
+### 1 
+**chmod +x learn_linux** 
+### 2 
+**./learn_linux**
+**وبس**
 # حساباتي
 تويتر
 https://twitter.com/F14Commander
