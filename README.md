@@ -9,10 +9,9 @@
 لينكس
 اول شي
 chmod +x learn_linux
-وبعدها
-./learn_linux
-وبس
-ويندوز
+ وبعدها
+ ./learn_linux
+ وبس
 # حساباتي
 تويتر
 https://twitter.com/F14Commander
