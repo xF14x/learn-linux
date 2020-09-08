@@ -11,9 +11,9 @@
 **git clone https://github.com/xF14x/learn-linux.git**
 ### 2 
 **cd learn-linux**
-### 2 
-**chmod +x learn_linux** 
 ### 3
+**chmod +x learn_linux** 
+### 4
 **./learn_linux**
 **وبس**
 # مقطع توضيحي
