@@ -8,10 +8,16 @@
 حوالي نص ساعة (30)دقيقة
 # كيف أستخدمها ؟؟
 ### 1 
-**chmod +x learn_linux** 
+**git clone https://github.com/xF14x/learn-linux.git**
 ### 2 
+**cd learn-linux**
+### 2 
+**chmod +x learn_linux** 
+### 3
 **./learn_linux**
 **وبس**
+# مقطع توضيحي
+**https://youtu.be/RTYs7IxaSq4**
 # حساباتي
 ### **يوتيوب** 
 https://www.youtube.com/channel/UCcOXGSw12Y-d4359PWLrxgQ
